@@ -64,6 +64,7 @@ font-size: 30px;
 .parag{
     margin: 40px 70px;
     text-align: center;
+    font-size: 35px;
 }
 span{
     background: #214F70;
@@ -196,4 +197,7 @@ li{
     text-align: center;
     font-size: 20px;
     margin-top: -20px;
+}
+.quadrado , .texto , .fundo2{
+    visibility: hidden;
 }
